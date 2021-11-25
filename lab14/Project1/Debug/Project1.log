@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\marco\Desktop\c\lab14\Project1\Source.c(31,34): warning C4020: 'mark_truck': too many actual parameters
+C:\Users\marco\Desktop\c\lab14\Project1\Source.c(74,67): warning C4029: declared formal parameter list different from definition
+C:\Users\marco\Desktop\c\lab14\Project1\Source.c(98,38): warning C4047: 'function': 'int' differs in levels of indirection from 'boxes_t *'
+C:\Users\marco\Desktop\c\lab14\Project1\Source.c(98,33): warning C4024: 'check': different types for formal and actual parameter 4
+C:\Users\marco\Desktop\c\lab14\Project1\Source.c(98,49): warning C4020: 'check': too many actual parameters
+  Project1.vcxproj -> C:\Users\marco\Desktop\c\lab14\Project1\Debug\Project1.exe
