@@ -1,0 +1,6 @@
+﻿  st.c
+C:\Users\marco\Desktop\c\lab11\exercise01\st.c(34,29): warning C4013: 'NEW' undefined; assuming extern returning int
+C:\Users\marco\Desktop\c\lab11\exercise01\st.c(34,47): warning C4047: '=': 'link' differs in levels of indirection from 'int'
+C:\Users\marco\Desktop\c\lab11\exercise01\st.c(49,6): error C2040: 'NEW': 'link (Item,link)' differs in levels of indirection from 'int ()'
+C:\Users\marco\Desktop\c\lab11\exercise01\st.c(61,36): warning C4047: '=': 'link' differs in levels of indirection from 'int'
+C:\Users\marco\Desktop\c\lab11\exercise01\st.c(94,42): warning C4047: '=': 'link' differs in levels of indirection from 'int'
